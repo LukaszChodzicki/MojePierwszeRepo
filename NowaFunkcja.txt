@@ -1,0 +1,4 @@
+Przykładowy tekst
+Na potrzeby zadania:
+Tworzenie Gałęzi:
+•	Przejdź do tej gałęzi i dodaj nowy plik o nazwie "NowaFunkcja.txt" z jakimś tekstem
